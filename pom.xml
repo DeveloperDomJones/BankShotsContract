@@ -12,6 +12,7 @@
 	<groupId>com.bankshotscontract</groupId>
 	<artifactId>bankshotscontract</artifactId>
 	<version>0.0.1</version>
+	<packaging>pom</packaging>
 	<name>bankshotscontract</name>
 	<description>Contracts JAR For BankShots Applications</description>
 
